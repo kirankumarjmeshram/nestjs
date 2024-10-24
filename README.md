@@ -41,10 +41,8 @@ Start the development server with:
 
 ```
 npm run start
-
 ```
 
-`</code></div>``</div></pre>`
 
 The API will be running on `http://localhost:3000`.
 
@@ -189,6 +187,7 @@ npm run test:e2e
 
 ## **Project Structure**
 
+```
 ├── src/
 │   ├── albums/
 │   │   ├── albums.controller.ts
@@ -210,6 +209,7 @@ npm run test:e2e
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
 
 
 ## **Contributors**
